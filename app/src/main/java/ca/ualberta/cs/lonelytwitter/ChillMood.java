@@ -2,6 +2,8 @@ package ca.ualberta.cs.lonelytwitter;
 
 /**
  * Created by ahua on 1/19/17.
+ * ChillMood is a subclass of Mood
+ * it contains a string expressing a chill mood
  */
 
 public class ChillMood extends Mood {
